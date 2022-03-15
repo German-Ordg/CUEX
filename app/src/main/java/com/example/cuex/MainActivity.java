@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
 
     private EditText numero;
     private TextView Resultado;
+    private EditText numero2;
+    private TextView Resultado2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
